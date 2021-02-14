@@ -34,6 +34,7 @@ members = [
 
     # Examples
     "examples/arduino-leonardo",
+    "examples/arduino-nano-every",
     "examples/arduino-uno",
 
     # The board crates
